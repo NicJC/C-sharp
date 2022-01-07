@@ -1,4 +1,4 @@
 # C-sharp
-C# code basics:
+C# simple / important basics:
 
 * Variables ~ important basics
